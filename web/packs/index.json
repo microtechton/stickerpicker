@@ -1,6 +1,7 @@
 {
   "packs": [
-    "discord.json"
+    "discord.json",
+    "hasanabi.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
